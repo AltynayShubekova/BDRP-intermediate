@@ -6,3 +6,5 @@ In the attached notebook we use the Jumanji environment to train a reinforcement
 At the very end of the file, the script throws an error, it is due to the fact that in this part of the code we run an endless loop in which items are added to the box. The error comes out because we end running.
 
 Here's a demo of the best items stacking we've achieved so far:
+
+![Запись_экрана_22_01_2023_3_00_13_online_video_cutter_com](https://user-images.githubusercontent.com/122653127/213897391-693b783b-e9cc-4c4b-9ebc-6df1a3e115c5.gif)
